@@ -4,3 +4,4 @@ for conflict
 test branch
 for conflict
 added new branch
+amend
