@@ -1,0 +1,5 @@
+first commit
+second line
+for conflict
+test branch
+for conflict
