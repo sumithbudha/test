@@ -3,3 +3,4 @@ second line
 for conflict
 test branch
 for conflict
+added new branch
